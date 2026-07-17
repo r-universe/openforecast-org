@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "greybox"]
+	path = greybox
+	url = https://github.com/openforecast-org/greybox
+[submodule "legion"]
+	path = legion
+	url = https://github.com/openforecast-org/legion
+[submodule "muse"]
+	path = muse
+	url = https://github.com/openforecast-org/muse
+[submodule "smooth"]
+	path = smooth
+	url = https://github.com/openforecast-org/smooth
